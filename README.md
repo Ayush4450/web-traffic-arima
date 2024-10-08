@@ -19,3 +19,5 @@ this day and age, we are too dependent on Google server but if we want
 to host a server for large users we could have predicted the number of 
 users from previous years to avoid server breakdown. Time Series 
 forecasting is crucial to multiple domains.
+
+Link for colab - https://colab.research.google.com/drive/13kq8ekaYwJA7ltdkogDjNcw4XKE0mgeE#scrollTo=IirT4oDcjvHw
